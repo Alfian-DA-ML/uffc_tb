@@ -15,7 +15,7 @@ A lightweight Convolutional Neural Network (CNN) for tuberculosis classification
 <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.5-red)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.5.1-red)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![License](https://img.shields.io/badge/License-Academic-green)
 
@@ -93,7 +93,7 @@ Total Trainable Parameters:
 **1,164,386**
 
 <p align="center">
-  <img src="outputs/architecture.png" width="750">
+  <img src="logo/Arsitektur.png.png" width="750">
 </p>
 
 <p align="center">
@@ -230,7 +230,7 @@ The model achieved an AUROC score of **0.9972**, indicating excellent discrimina
 Grad-CAM was employed to visualize image regions contributing to classification decisions.
 
 <p align="center">
-  <img src="outputs/gradcam_examples.png" width="1000">
+  <img src="outputs/gradcam.png" width="1000">
 </p>
 
 The resulting heatmaps highlight regions within the lungs that contribute most strongly to model predictions, providing additional interpretability and insight into the decision-making process.
@@ -324,8 +324,8 @@ This project is intended for educational, academic, and research purposes.
 
 **Alfian**
 
-D3 Teknik Informatika  
-Universitas Sebelas Maret
+Applied Statistics and Computing 
+Universitas Negeri Semarang
 
 Project: UFC-TB (*Unified Framework Classification for Tuberculosis*)
 ```
