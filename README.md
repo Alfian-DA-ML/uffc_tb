@@ -93,7 +93,7 @@ Total Trainable Parameters:
 **1,164,386**
 
 <p align="center">
-  <img src="logo/Architecture.png" width="400">
+  <img src="logo/Architecture.png" width="400" height = "500">
 </p>
 
 <p align="center">
@@ -262,8 +262,6 @@ UFC_TB/
 ---
 
 # References
-
-Paste your APA references here.
 
 Andreu, J., Cáceres, J., Pallisa, E., & Martinez-Rodriguez, M. (2004). Radiological manifestations of pulmonary tuberculosis. European Journal of Radiology, 51(2), 139–149. https://doi.org/10.1016/j.ejrad.2004.03.009
 
