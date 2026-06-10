@@ -17,7 +17,7 @@ A lightweight Convolutional Neural Network (CNN) for tuberculosis classification
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.5.1-red)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
-![License](https://img.shields.io/badge/License-Academic-green)
+![License](https://img.shields.io/badge/MIT-green)
 
 </p>
 
