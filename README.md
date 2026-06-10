@@ -93,7 +93,7 @@ Total Trainable Parameters:
 **1,164,386**
 
 <p align="center">
-  <img src="logo/Architecture.png.png" width="400">
+  <img src="logo/Architecture.png" width="400">
 </p>
 
 <p align="center">
