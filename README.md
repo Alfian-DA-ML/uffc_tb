@@ -93,7 +93,7 @@ Total Trainable Parameters:
 **1,164,386**
 
 <p align="center">
-  <img src="logo/Arsitektur.png" width="750">
+  <img src="logo/Architecture.png.png" width="400">
 </p>
 
 <p align="center">
@@ -325,6 +325,7 @@ This project is intended for educational, academic, and research purposes.
 **Alfian**
 
 Applied Statistics and Computing 
+
 Universitas Negeri Semarang
 
 Project: UFC-TB (*Unified Framework Classification for Tuberculosis*)
