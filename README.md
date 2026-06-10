@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo/UFC_TB_logo.png" width="600">
+  <img src="logo/UFC_TB_logo_final.png" width="600">
 </p>
 
 <h1 align="center">UFC-TB</h1>
@@ -14,7 +14,7 @@ A lightweight Convolutional Neural Network (CNN) for tuberculosis classification
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.5-red)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 ![License](https://img.shields.io/badge/License-Academic-green)
