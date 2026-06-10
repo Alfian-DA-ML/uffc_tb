@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo/UFC_TB_logo.png.png" width="600">
+  <img src="logo/UFC_TB_logo.png" width="600">
 </p>
 
 <h1 align="center">UFC-TB</h1>
