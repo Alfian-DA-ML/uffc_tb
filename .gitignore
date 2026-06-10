@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# dataset
+dataset
+
+# laporan 
+laporan
+
+# referensi
+referensi
+
+# FILE 
+*UFC_TB.ipynb
